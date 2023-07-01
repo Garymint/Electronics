@@ -1,0 +1,8 @@
+Partlist exported from C:/Users/Joseph/AppData/Local/Temp/Neutron/ElectronFileOutput/13240/sch-d8c8b023-f983-4abd-b204-d6399507e5b5/Mosfet_Switch_Schematic v2.sch at 01/07/2023 12:42
+
+Part Value     Device                   Package     Description                CATEGORY   DESCRIPTION DRAIN_CURRENT MANUFACTURER MPN OPERATING_TEMP PART_STATUS RATING ROHS_COMPLIANT SERIES SUB-CATEGORY THERMALLOSS TOLERANCE TYPE      VALUE  
+JP1  PINHD-1X2 PINHD-1X2                1X02        PIN HEADER                 CONNECTOR                                                                                                     PIN-HEADER                                          
+JP2  PINHD-1X2 PINHD-1X2                1X02        PIN HEADER                 CONNECTOR                                                                                                     PIN-HEADER                                          
+Q1   NMOSFET   NMOSFETSOT23-GSD         SOT23       N-Channel MOSFET - Generic Transistor                                                                                                    MOSFET                             N-Channel NMOSFET
+R1   1k        R_CHIP-0805(2012-METRIC) RESC2012X65 Resistor Fixed - Generic   Resistor                                                                                                      Fixed                                               
+R2   10k       R_CHIP-0805(2012-METRIC) RESC2012X65 Resistor Fixed - Generic   Resistor                                                                                                      Fixed                                               
