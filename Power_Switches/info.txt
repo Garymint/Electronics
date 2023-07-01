@@ -1,0 +1,4 @@
+Power Switches:
+  1. Magpie: contains Fusion files, BOM, Gerber, and PnP files for Magpies power switch. Files are made to be manufactured by JLC PCB
+  2. Mosfet: contains files for a small mosfet pull down switch
+  3. Power Switch: Similar to magpie, just in a different package
