@@ -1,1 +1,2 @@
 ATX Breakout Board
+Be aware that the wrong connectors were used for the GPU 8 pins, it still works if you can split the 8 pin into a 6+2 pin (for my PSU this is the case)
