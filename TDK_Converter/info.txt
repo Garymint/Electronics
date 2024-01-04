@@ -1,3 +1,4 @@
 TDK Converter
 This converter is made to step up 12V to 19V to power an STX board. Some basic power testing was performed.
+Creating a case, and cooling with a fan is strongly recommended.
 No saftey features are included, and use is at your own risk.
